@@ -16,3 +16,25 @@ i. Date/Time:	    The date and time of the Uber pickup</br>
 ii. Lat:          The latitude of the Uber pickup</br>
 iii. Lon:	        The longitude of the Uber pickup</br>
 iv. Base:	        The TLC base company code affiliated with the Uber pickup</br>
+
+
+## 2. My Uber Drives - 2016
+My Uber Drives (2016)
+This directory contains the details of my Uber Drives of 2016 to learn from the behavior of an ordinary Uber customer.</br>
+- Content </br>
+Geography: USA, Sri Lanka and Pakistan</br>
+- Time period: January - December 2016</br>
+- Unit of analysis: Drives
+- Total Drives: 1,155
+- Total Miles: 12,204
+- Dataset: The dataset contains Start Date, End Date, Start Location, End Location, Miles Driven and Purpose of drive (Business, Personal, Meals, Errands, Meetings, Customer Support etc.)</br>
+
+Inspiration</br>
+Some ideas worth exploring:</br>
+• What is the average length of the trip?
+• Average number of rides per week or per month?
+• Total tax savings based on traveled business miles?
+• Percentage of business miles vs personal vs. Meals
+• How much money can be saved by a typical customer using Uber, Careem, or Lyft versus regular cab service?
+
+
